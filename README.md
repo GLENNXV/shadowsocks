@@ -5,6 +5,8 @@ shadowsocks
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
 
+Forked since the original one has been removed.
+
 A fast tunnel proxy that helps you bypass firewalls.
 
 Features:
